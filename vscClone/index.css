@@ -1,0 +1,98 @@
+body {
+    background-color: #0e0e0e;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.main {
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 10px 20px;
+}
+.span1 {
+    margin-right: 5px;
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.anchors {
+    display: flex;
+    justify-content: space-around;
+}
+
+.innerELement {
+    padding-left: 15px;
+    padding-top: 10px;
+    color: grey;
+}
+
+.lastElement {
+    padding-right: 10px;
+}
+
+.favIcon {
+    width: 24px;
+}
+
+.download {
+    background-color: #007ACC;
+    color: white; 
+    border: none; 
+    padding: 10px 20px; 
+    border-radius: 5px; 
+    cursor: pointer; 
+    font-size: 16px; 
+}
+
+.free {
+    background-color: #252526; 
+    color: #c5c5c5; 
+    border: 1px solid #3c3c3c; 
+    padding: 10px 20px; 
+    margin-right: 200px;
+    border-radius: 25px; 
+    font-size: 14px; 
+    cursor: pointer; 
+    outline: none;
+}
+
+.debs {
+    background-color: #007ACC; 
+    color: white; 
+    border: none; 
+    margin: 15px 20px; 
+    border-radius: 8px; 
+    font-size: 16px; 
+    cursor: pointer; 
+    width: 100px;
+    border-radius: 5px;
+}
+
+.search {
+    background-color: #1e1e1e; 
+    color: #ffffff; 
+    border: 1px solid #3c3c3c; 
+    border-radius: 4px;
+    padding: 8px 12px; 
+    font-size: 14px;
+    width: 200px; 
+    outline: none; 
+}
+.downs {
+    display: flex;
+    background-color: #0078d4; 
+    border-radius: 6px;
+    width: fit-content;
+    margin-left: 250px;
+}
+
+.notification-banner {
+    color: grey;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-family: Arial, sans-serif;
+}
